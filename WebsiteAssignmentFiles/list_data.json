@@ -1,0 +1,70 @@
+{
+	"Places I've Visited in the Last Year": [
+		{
+			"Continent": "North America",
+			"Country": "United States",
+			"City": "Miami",
+			"Postcards Sent": "1"
+		},
+		{
+			"Continent": "North America",
+			"Country": "United States",
+			"City": "District of Colubia",
+			"Postcards Sent": "1"
+		},
+		{
+			"Continent": "Asia",
+			"Country": "Japan",
+			"City": "Tokyo",
+			"Postcards Sent": "8"
+		},
+		{  
+			"Continent": "Asia",
+			"Country": "Japan",
+			"City": "Osaka",
+			"Postcards Sent": "3"
+		},
+		{   
+			"Continent": "Asia",
+			"Country": "Japan",
+			"City": "Kyoto",
+			"Postcards Sent": "1"
+		},
+		{   
+			"Continent": "Asia",
+			"Country": "Japan",
+			"City": "Uji",
+			"Postcards Sent": "1"
+		},
+		{   
+			"Continent": "Asia",
+			"Country": "Japan",
+			"City": "Kobe",
+			"Postcards Sent": "0"
+		},
+		{   
+			"Continent": "Asia",
+			"Country": "Japan",
+			"City": "Yuragawa",
+			"Postcards Sent": "1"
+		},
+		{   
+			"Continent": "Europe",
+			"Country": "France",
+			"City": "Paris",
+			"Postcards Sent": "18"
+		},
+		{   
+			"Continent": "Europe",
+			"Country": "France",
+			"City": "Le Harve",
+			"Postcards Sent": "1"
+		},
+		{   
+			"Continent": "North America",
+			"Country": "Mexico",
+			"City": "Mexicali",
+			"Postcards Sent": "0"
+		}
+	]
+}
